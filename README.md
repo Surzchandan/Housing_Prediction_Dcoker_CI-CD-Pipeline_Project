@@ -75,7 +75,7 @@ To setup CI/CD pipeline in heroku we need 3 information
 
 HEROKU_EMAIL = surzchandan@gmail.com
 
-HEROKU_API_KEY = e98f34ea-f5a0-4b0d-a61c-6b5a7fc1aefd
+HEROKU_API_KEY = <passes secrets in Heroku>
 
 HEROKU_APP_NAME = ml-regression-surz1
 BUILD DOCKER IMAGE
